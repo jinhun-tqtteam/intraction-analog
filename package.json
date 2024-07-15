@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@analog-labs/timegraph-js": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
